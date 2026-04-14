@@ -15,7 +15,9 @@ This project showcases a Power BI dashboard created to analyze sales performance
 - Interactive Filters (Slicers)
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard3.png)
 
 ## 🚀 Insights
 - Identified top-performing regions
